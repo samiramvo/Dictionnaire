@@ -1,0 +1,10 @@
+dico={
+    "Banane":2000,
+    "Cerise":5000,
+    "Ananas":1000,
+    "Ananas":3000,
+    "Cerise":5000,
+    "Banane":2000
+}
+set(dico)
+print(dict(dico))
